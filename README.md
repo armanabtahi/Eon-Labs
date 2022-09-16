@@ -1,6 +1,6 @@
 # Eon-Labs
 
-This is TTA for EonLabs
+This repository is for the TTA for EonLabs, which describes my method in detail.
 
 The data engineering team at Eon Labs conducted some study and discovered that the Google Trends data may be useful to the data science team. I, as a data scientist, require a time series of reliable Google Trends data with hourly intervals from 2018 to the present. I alerted the technical staff of this demand, but they stated that they could not directly retrieve the hourly data. The Deep Dive section explains why they are unable to directly retrieve the hourly data. However, they may obtain the following raw data from Google Trends:
 
